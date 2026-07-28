@@ -1,7 +1,7 @@
 # ¡Hola! Soy Nicolás Chiguano 👋
 
 ### 🚀 Egresado en Tecnología Superior en Desarrollo de Software | EPN
-Desarrollador de software multiplataforma enfocado en el diseño y construcción de aplicaciones robustas, escalables y seguras. Cuento con experiencia en desarrollo web, móvil, arquitectura backend, containerización y auditoría de seguridad basada en el estándar OWASP.
+Desarrollador de software multiplataforma enfocado en el diseño y construcción de aplicaciones robustas, escalables y seguras. Cuento con experiencia básica en desarrollo web, móvil, arquitectura backend y frontend, containerización y auditoría de seguridad basada en el estándar OWASP.
 
 - 📍 Quito, Ecuador
 - 🎓 **Escuela Politécnica Nacional (EPN)** — Egresado de *Tecnología Superior en Desarrollo de Software*
