@@ -24,6 +24,7 @@ Desarrollador de software multiplataforma enfocado en el diseño y construcción
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Ciberseguridad:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,11 +45,10 @@ Desarrollador de software multiplataforma enfocado en el diseño y construcción
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasCh25&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-up.vercel.app/api?username=NicolasCh25&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-up.vercel.app/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-
 ---
 
 ### 📫 Contacto & Redes
