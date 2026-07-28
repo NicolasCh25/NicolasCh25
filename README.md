@@ -45,11 +45,9 @@ Desarrollador de software multiplataforma enfocado en el diseño y construcción
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- ESTADÍSTICAS GENERALES (CONFIRMADO QUE FUNCIONA) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCh25&theme=tokyonight&count_private=true" alt="Racha de GitHub" />
-  <br/>
-  <!-- LENGUAJES MÁS USADOS (ACTUALIZADO AL MISMO SERVIDOR CONFIABLE) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Lenguajes más usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCh25&theme=tokyonight" alt="Racha de GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 ---
 
