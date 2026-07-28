@@ -5,8 +5,8 @@ Desarrollador de software multiplataforma enfocado en el diseño y construcción
 
 - 📍 Quito, Ecuador
 - 🎓 **Escuela Politécnica Nacional (EPN)** — Egresado de *Tecnología Superior en Desarrollo de Software*
-- 💼 En búsqueda activa de oportunidades como **Desarrollador Full-Stack / Mobile / Backend**
-- 🛡️ Intereses clave: **Desarrollo Multiplataforma & Ciberseguridad**
+- 💼 En búsqueda activa de oportunidades como **Desarrollador web / Mobile / Backend y frontend**
+
 
 ---
 
