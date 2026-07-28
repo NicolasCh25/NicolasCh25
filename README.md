@@ -45,9 +45,9 @@ Desarrollador de software multiplataforma enfocado en el diseño y construcción
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-up.vercel.app/api?username=NicolasCh25&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCh25&theme=tokyonight" alt="Racha de GitHub" />
   <br/>
-  <img src="https://github-readme-stats-up.vercel.app/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCh25&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 ---
 
